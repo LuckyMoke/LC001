@@ -26,4 +26,4 @@ https://blog.luckymoke.cn 我的博客使用此框架编写
 
 ## 最后
 
-欢迎加Q群讨论使用问题 [![加QQ群](//pub.idqqimg.com/wpa/images/group.png "加QQ群")](//shang.qq.com/wpa/qunwpa?idkey=a3508803dd88a63587ea1ac9d5f819ce291cddc11778051b9b5e52ad1d978b9c "加QQ群")
+欢迎加Q群讨论使用问题 [![加QQ群](//pub.idqqimg.com/wpa/images/group.png "加QQ群")](//shang.qq.com/wpa/qunwpa?idkey=cd597ca0eaf17d14613e5a7c1608b7340d1316705759d4a529917bf4275f97cc "加QQ群")
