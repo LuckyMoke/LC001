@@ -14,6 +14,8 @@ https://blog.luckymoke.cn 我的博客使用此框架编写
 
 - 模板的基础js在<code>min/js/base.js</code>和<code>min/js/own.js</code>中
 
+- 其它都和V1框架的开发方式差不多
+
 ## 安装说明
 
 1. 将所有文件放在米拓程序<code>templates</code>目录下的<code>LC001</code>文件夹中
