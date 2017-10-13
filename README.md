@@ -18,7 +18,7 @@ https://blog.luckymoke.cn 我的博客使用此框架编写
 
 1. 将所有文件放在米拓程序<code>templates</code>目录下的<code>LC001</code>文件夹中
 
-2. 使用<code>模板安装助手</code>应用安装电脑模板名字为<code>LC001</code>LC001
+2. 使用<code>模板安装助手</code>应用安装电脑模板名字为<code>LC001</code>
 
 3. 使用新闻模块和简介模块体验一下pjax加载吧
 
